@@ -1,6 +1,6 @@
 # TFR-Localization  [![Join our Discord!](https://img.shields.io/discord/449966345665249290.svg?color=blue&label=Discord&logo=discord&style=flat-square)](https://discord.gg/97Mj6vK) [![Support the devs!](https://img.shields.io/badge/Patreon-Support-orange.svg?style=flat-square)](https://www.patreon.com/TeamMoeg)
 
-Localization Port for Terra Firma Rescue Modpack. 
+Localization Port for Terra Firma Rescue Modpack. All contributers will be on the [SupporterList](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/supporterlist.txt). 
 
 Version 3.3.1.3 is out 18.06.2020
 
