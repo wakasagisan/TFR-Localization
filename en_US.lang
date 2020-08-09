@@ -1,7 +1,7 @@
 tfr.quest0.name=The Stone Age 
-tfr.quest0.desc=With the stone technique, you can make four basic tools. 
+tfr.quest0.desc=Make yourself the 4 basic tools with the rocks you found! 
 tfr.quest1.name=clay 
-tfr.quest1.desc=The world grows some special grass: clay. Above them usually grows the goldenrod, a yellow flower. Dig them up a lot. 
+tfr.quest1.desc=Unlike vanilla, the clay blocks are covered by grass in this pack. But you can spot them with the goldenrod growing on top, a pretty yellow flower. Go get a ton of them!(not the flower, of course) 
 tfr.quest2.name=pottery 
 tfr.quest2.desc=Create a clay GUI in a similar way to a stone tool. To open the GUI, you must right-click with five or more clays in hand. Clay products must first be fired into ceramics to be useful. How do you make it? You need a "pottery kiln". %n%n Step:%n1.Dig a 1x1x1 dirt pit, then move stealthily and right click to place 4 items you want to fire. Repeat move and right click to pick them up. Take 8 pieces of hay and right click the bottom of the pit until the square is half full. Aim at the ground, not the object. Hold 8 pieces of wood and right-click on the hay until the cube is full, then light it with the fire tool. %n%n4. Once the flame is burned, you can collect your ceramics by hand, or simply break the cube to collect everything. The important thing is that a flame burning in a clay kiln ignites a nearby flammable cube. For this reason, it is recommended not to burn in houses made of wood, hay or other flammable materials. However, the kiln will not be extinguished by the rain. 
 tfr.quest3.name=§ §b§l"Novosibirsk" grows potatoes 
