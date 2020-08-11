@@ -2,8 +2,6 @@
 
 Localization Port for Terra Firma Rescue Modpack. All contributers will be on the [SupporterList](https://github.com/TerraFirmaRescue/TerraFirma-Rescue-Modpack/blob/master/supporterlist.txt). 
 
-Version 3.3.1.3 is out 18.06.2020
-
 1. [CURSEFORGE](https://www.curseforge.com/minecraft/modpacks/terrafirma-rescue)
 2. [MCBBS](https://www.mcbbs.net/thread-977365-1-1.html)
 3. [OFFICIAL WIKI](http://www.terrafirmarescue.com:11004/)
